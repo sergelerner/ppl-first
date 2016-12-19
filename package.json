@@ -1,0 +1,19 @@
+{
+  "name": "ppl-first",
+  "version": "1.0.0",
+  "description": "A list of ppl to learn from",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergelerner/ppl-first.git"
+  },
+  "author": "Serge Lerner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergelerner/ppl-first/issues"
+  },
+  "homepage": "https://github.com/sergelerner/ppl-first#readme"
+}
