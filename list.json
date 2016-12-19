@@ -1,0 +1,108 @@
+{
+  list: [
+    {
+      name 'philip-roberts',
+      tags: ['speaker', 'functional']
+    },
+    {
+      name 'mrdoob',
+      tags: ['visual', 'threeJs']
+    },
+    {
+      name 'mike-bostock',
+      tags: ['infographics', 'visual', 'd3.js']
+    },
+    {
+      name 'lee-byron',
+      tags: ['speaker', 'immutable.js']
+    },
+    {
+      name 'michel-weststrate',
+      tags: ['state-manegment', 'mobx.js']
+    },
+    {
+      name 'dan-abramov',
+      tags: ['state-manegment', 'speaker', 'redux.js', 'facebook']
+    },
+    {
+      name 'eric-elliott',
+      tags: ['blogger']
+    },
+    {
+      name 'domenic-denicola',
+      tags: ['tc39']
+    },
+    {
+      name 'axel-rauschmayer',
+      tags: ['academic']
+    },
+    {
+      name 'ben-lesh',
+      tags: ['reactive-functional', 'rx.js']
+    },
+    {
+      name 'david-chambers',
+      tags: ['functional', 'ramda.js']
+    },
+    {
+      name 'douglas-crockford',
+      tags: ['tc39', 'academic', 'functional']
+    },
+    {
+      name 'andrew-clark',
+      tags: ['react.js', 'redux.js', 'facebook']
+    },
+    {
+      name 'jafar-husain',
+      tags: ['visual']
+    },
+    {
+      name 'richard-feldman',
+      tags: ['immutable', 'elm-lang']
+    },
+    {
+      name 'kris-kowal',
+      tags: ['q.js']
+    },
+    {
+      name 'mathias-bynens',
+      tags: ['web-standards']
+    },
+    {
+      name 'matthew-podwysocki',
+      tags: ['functional']
+    },
+    {
+      name 'gleb-bahmutov',
+      tags: ['image-processing']
+    },
+    {
+      name 'andre-staltz',
+      tags: ['functional', 'reactive-functional', 'cycle.js', 'blogger']
+    },
+    {
+      name 'mattias-petter-johansson',
+      tags: ['vlogger']
+    },
+    {
+      name 'brad-frost',
+      tags: ['responsive']
+    },
+    {
+      name 'addy-osmani',
+      tags: ['performance']
+    },
+    {
+      name 'paul-irish',
+      tags: ['dev-tools']
+    },
+    {
+      name 'james-k-nelson',
+      tags: ['blogger']
+    },
+    {
+      name 'alex-russell',
+      tags: ['pwa']
+    }
+  ]
+}
