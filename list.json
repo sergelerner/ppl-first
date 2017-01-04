@@ -1,6 +1,10 @@
 {
   list: [
     {
+      name: 'david-gilbertson',
+      tags: ['blogger']
+    },
+    {
       name 'philip-roberts',
       tags: ['speaker', 'functional']
     },
