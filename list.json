@@ -1,6 +1,10 @@
 {
   list: [
     {
+      name: 'TJ Holowaychuk',
+      tags: []
+    },
+    {
       name: 'david-gilbertson',
       tags: ['blogger']
     },
