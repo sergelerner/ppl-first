@@ -1,6 +1,10 @@
 {
   list: [
     {
+      name: 'Jake Archibald',
+      tags: ['googler', 'bloger'],
+    },
+    {
       name: 'TJ Holowaychuk',
       tags: []
     },
