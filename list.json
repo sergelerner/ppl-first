@@ -1,8 +1,12 @@
 {
   list: [
     {
+      name: 'Sindre Sorhus',
+      tags: ['blogger', 'digital-nomad'],
+    },
+    {
       name: 'Jake Archibald',
-      tags: ['googler', 'bloger'],
+      tags: ['googler', 'blogger'],
     },
     {
       name: 'TJ Holowaychuk',
