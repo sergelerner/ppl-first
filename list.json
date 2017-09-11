@@ -1,6 +1,10 @@
 {
   list: [
     {
+      name: 'Shirley Wu',
+      tags: ['d3.js', 'visual'],
+    },
+    {
       name: 'Sindre Sorhus',
       tags: ['blogger', 'digital-nomad'],
     },
